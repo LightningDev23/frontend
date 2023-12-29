@@ -1,5 +1,5 @@
 {
-  "name": "kastel-web-template",
+  "name": "kastel-staff",
   "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
