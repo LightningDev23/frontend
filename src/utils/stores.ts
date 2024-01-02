@@ -1,7 +1,6 @@
 import { BaseChannel, BaseGuild, Client } from "@kastelll/wrapper";
 import { atom } from "recoil";
 import localStorageEffect from "./effects/localStorage.ts";
-import Translation from "./translation.ts";
 
 export const readyStore = atom<boolean>({
   key: "ready",
@@ -63,9 +62,4 @@ export const collapsedChannels = atom<string[]>({
 export const isDesktop = atom({
   key: "isDesktop",
   default: false,
-});
-
-export const translationStore = atom({
-  key: "translation",
-  default: new Translation(),
 });
