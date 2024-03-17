@@ -1,5 +1,6 @@
 import { withSentryConfig } from "@sentry/nextjs";
 import fetchInfo from "./src/gitInfo.mjs";
+import million from "million/compiler";
 
 const fetchedData = fetchInfo();
 
@@ -37,4 +38,6 @@ const nextConfig = {
   }),
 };
 
-export default withSentryConfig(nextConfig);
+export default million.next(withSentryConfig(nextConfig), {
+  auto: true,
+})
