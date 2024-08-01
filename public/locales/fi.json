@@ -9,8 +9,7 @@
 		]
 	},
 	"_debug": {
-		"title": "This is always translated",
-		"test": "{{lorempsum.words:25}}"
+		"title": "This is always translated (FR)"
 	},
 	"error": {
 		"forohfor": {
