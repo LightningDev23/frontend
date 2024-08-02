@@ -13,96 +13,96 @@
 	},
 	"error": {
 		"forohfor": {
-			"header": "404 - Page Not Found",
-			"message": "The page you are looking for does not exist.",
+			"header": "404 - Sivua ei löytynyt",
+			"message": "Etsimääsi sivua ei ole olemassa.",
 			"buttons": {
-				"home": "Go Home",
-				"back": "Go Back"
+				"home": "Etusivu",
+				"back": "Edellinen sivu"
 			}
 		},
-		"internalServerError": "You caught a rare error, please try again later."
+		"internalServerError": "No, se on harvinainen virhe, yritä myöhemmin uudelleen."
 	},
 	"home": {
-		"title": "Ditch those platforms who just don't care!",
-		"subtitle": "Why settle for less when you can have a platform that cares about you? Join Kastel, the platform that cares about you!",
-		"subtitle2": "Kastel is free, secure, and works on your browser, desktop and mobile devices.",
-		"getStarted": "Get Started",
-		"download": "Download for",
+		"title": "Heitä pois alustat, jotka eivät välitä!",
+		"subtitle": "Miksi tyytyä vähempään, kun voit saada alustan, joka välittää sinusta? Liity Kasteliin, alustaan, joka välittää sinusta!",
+		"subtitle2": "Kastel on ilmainen, turvallinen ja toimii selaimessasi sekä tietokoneellasi että mobiililaitteillasi.",
+		"getStarted": "Aloita",
+		"download": "Lataa",
 		"navbar": {
-			"login": "Login",
-			"signup": "Sign Up",
-			"blog": "Blog",
-			"support": "Support",
-			"docs": "Developer Portal",
-			"app": "Open App"
+			"login": "Kirjaudu sisään",
+			"signup": "Rekisteröidy",
+			"blog": "Blogi",
+			"support": "Tuki",
+			"docs": "Kehittäjän sivu",
+			"app": "Avaa sovellus"
 		}
 	},
 	"acknowledgements": {
 		"staff": {
-			"title": "Meet the Staff",
-			"message": "The people who make Kastel possible."
+			"title": "Tutustu henkilökuntaan",
+			"message": "Ihmisiin, jotka tekevät Kastelin toiminnan mahdolliseksi."
 		},
 		"contributors": {
-			"title": "Contributors",
-			"message": "The people who help make Kastel better."
+			"title": "Avustajat",
+			"message": "Ihmiset, jotka auttavat tekemään Kastelista paremman."
 		},
 		"libraries": {
-			"title": "Libraries",
-			"message": "The libraries that make Kastel possible."
+			"title": "Kirjastot",
+			"message": "Ohjelmistot, joiden avulla Kastel on mahdollista."
 		}
 	},
 	"login": {
-		"title": "Welcome Back!",
-		"subtitle": "Login to your account to continue.",
+		"title": "Tervetuloa!",
+		"subtitle": "Kirjaudu tilillesi jatkaaksesi.",
 		"email": {
 			"placeholder": "kiki@kastelapp.com",
-			"label": "Email",
-			"description": "The email address you used to sign up",
-			"error": "Please enter a valid email address."
+			"label": "Sähköposti",
+			"description": "Sähköpostiosoite, jolla rekisteröidyt.",
+			"error": "Kirjoita voimassa oleva sähköpostiosoite."
 		},
 		"password": {
-			"placeholder": "Enter your password",
-			"label": "Password",
-			"description": "The password to your account",
-			"error": "Please enter a valid password."
+			"placeholder": "Syötä salasanasi",
+			"label": "Salasana",
+			"description": "Tilisi salasan.",
+			"error": "Virheelliset kirjautumistiedot."
 		},
-		"register": "Don't have an account? Register",
-		"forgot": "Forgot password?",
-		"button": "Login"
+		"register": "Eikö sinulla ole tiliä? Rekisteröidy",
+		"forgot": "Unohditko salasanan?",
+		"button": "Kirjaudu sisään"
 	},
 	"register": {
-		"title": "Welcome To Kastel",
-		"subtitle": "Create an account to get started.",
+		"title": "Tervetuloa Kasteliin",
+		"subtitle": "Luo tili päästäksesi alkuun.",
 		"username": {
 			"placeholder": "KiKi",
-			"label": "Username",
-			"description": "The username you want to use",
-			"error": "Please enter a valid username."
+			"label": "Käyttäjätunnus",
+			"description": "TKäyttäjätunnus, jota haluat käyttää.",
+			"error": "Kirjoita kelvollinen käyttäjätunnus."
 		},
 		"email": {
 			"placeholder": "kiki@kastelapp.com",
-			"label": "Email",
-			"description": "The email address you want to use",
-			"error": "Please enter a valid email address."
+			"label": "Sähköposti",
+			"description": "Sähköpostiosoite, jota haluat käyttää.",
+			"error": "Kirjoita voimassa oleva sähköpostiosoite."
 		},
 		"password": {
-			"placeholder": "Enter your password",
-			"label": "Password",
-			"description": "The password you want to use",
-			"error": "Please enter a valid password.",
+			"placeholder": "Syötä salasanasi",
+			"label": "Salasana",
+			"description": "Salasana, jota haluat käyttää.",
+			"error": "Virheellinen salasana.",
 			"confirm": {
-				"placeholder": "Confirm your password",
-				"label": "Confirm Password",
-				"description": "Please confirm your password",
-				"error": "Passwords do not match."
+				"placeholder": "Vahvista salasanasi",
+				"label": "Vahvista salasanasi",
+				"description": "Vahvista salasanasi.",
+				"error": "Salasanat eivät täsmää."
 			}
 		},
-		"button": "Register",
-		"login": "Got an account? Login"
+		"button": "Rekisteröi tili",
+		"login": "Onko sinulla tili? Kirjaudu sisään."
 	},
 	"tags": {
-		"system": "System",
-		"bot": "Bot",
-		"server": "Server"
+		"system": "Järjestelmä",
+		"bot": "Botti",
+		"server": "Palvelin"
 	}
 }
