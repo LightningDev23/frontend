@@ -9,11 +9,11 @@
 		]
 	},
 	"_debug": {
-		"title": "This is always translated."
+		"title": "This is always translated (FI)."
 	},
 	"error": {
 		"forohfor": {
-			"header": "404 - Seite nicht gefunden",
+			"header": "404 - Sivua ei löytynyt",
 			"message": "Die gesuchte Seite existiert nicht.",
 			"buttons": {
 				"home": "Home",
