@@ -20,6 +20,7 @@
 				"back": "Edellinen sivu"
 			}
 		}
+		"internalServerError": "No, se on harvinainen virhe, yritä myöhemmin uudelleen."
 	},
 	"home": {
 		"title": "Heitä pois alustat, jotka eivät välitä!",
