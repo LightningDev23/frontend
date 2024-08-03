@@ -4,105 +4,67 @@
 		"code": "fi",
 		"contributors": [
 			{
-				"name": "jbziscool",
+				"name": "jbziscool"
 			}
 		]
 	},
 	"_debug": {
-		"title": "This is always translated (FI)"
+		"title": "Dies ist immer übersetzt."
 	},
 	"error": {
 		"forohfor": {
-			"header": "404 - Sivua ei löytynyt",
-			"message": "Etsimääsi sivua ei ole olemassa.",
+			"header": "404 - Seite nicht gefunden",
+			"message": "Die gesuchte Seite existiert nicht.",
 			"buttons": {
-				"home": "Etusivu",
-				"back": "Edellinen sivu"
+				"home": "Home",
+				"back": "Zurück"
 			}
-		},
-		"internalServerError": "No, se on harvinainen virhe, yritä myöhemmin uudelleen."
+		}
 	},
 	"home": {
-		"title": "Heitä pois alustat, jotka eivät välitä!",
-		"subtitle": "Miksi tyytyä vähempään, kun voit saada alustan, joka välittää sinusta? Liity Kasteliin, alustaan, joka välittää sinusta!",
-		"subtitle2": "Kastel on ilmainen, turvallinen ja toimii selaimessasi sekä tietokoneellasi että mobiililaitteillasi.",
-		"getStarted": "Aloita",
-		"download": "Lataa",
+		"title": "Heitä pois alustat, jotka eivät välitä!!",
+		"subtitle": "Warum sollte man sich mit weniger zufrieden geben, wenn man eine Plattform haben kann, die sich um einen kümmert? Werde ein Mitglied von Kastel, der Plattform, die sich um dich kümmert!",
+		"subtitle2": "Kastel ist kostenlos, sicher, und funktioniert in deinem Browser, Desktop und Mobilgeräten.",
+		"getStarted": "Los geht's",
+		"download": "Herunterladen für",
 		"navbar": {
-			"login": "Kirjaudu sisään",
-			"signup": "Rekisteröidy",
-			"blog": "Blogi",
-			"support": "Tuki",
-			"docs": "Kehittäjän sivu",
-			"app": "Avaa sovellus"
+			"login": "Anmelden",
+			"signup": "Registrieren",
+			"blog": "Blog",
+			"support": "Hilfe",
+			"docs": "Entwicklerportal"
 		}
 	},
 	"acknowledgements": {
 		"staff": {
-			"title": "Tutustu henkilökuntaan",
-			"message": "Ihmisiin, jotka tekevät Kastelin toiminnan mahdolliseksi."
+			"title": "Lerne das Staff-Team kennen",
+			"message": "Lerne die Leute kennen, die Kastel ermöglichen."
 		},
 		"contributors": {
-			"title": "Avustajat",
-			"message": "Ihmiset, jotka auttavat tekemään Kastelista paremman."
+			"title": "Mitwirkende",
+			"message": "Die Leute, die Kastel besser machen."
 		},
 		"libraries": {
-			"title": "Kirjastot",
-			"message": "Ohjelmistot, joiden avulla Kastel on mahdollista."
+			"title": "Bibliotheken",
+			"message": "Die Bibliotheken, die Kastel ermöglichen."
 		}
 	},
 	"login": {
-		"title": "Tervetuloa!",
-		"subtitle": "Kirjaudu tilillesi jatkaaksesi.",
+		"title": "Willkommen zurück!",
+		"subtitle": "Melde dich an, um fortzufahren.",
 		"email": {
-			"placeholder": "kiki@kastelapp.com",
-			"label": "Sähköposti",
-			"description": "Sähköpostiosoite, jolla rekisteröidyt.",
-			"error": "Kirjoita voimassa oleva sähköpostiosoite."
+			"label": "E-Mail",
+			"description": "Die E-Mail-Adresse, mit der du dich angemeldet hast.",
+			"error": "Bitte gib eine gültige E-Mail-Adresse ein."
 		},
 		"password": {
-			"placeholder": "Syötä salasanasi",
-			"label": "Salasana",
-			"description": "Tilisi salasan.",
-			"error": "Virheelliset kirjautumistiedot."
+			"placeholder": "Gib dein Passwort ein.",
+			"label": "Passwort",
+			"description": "Das Passwort für deinen Account.",
+			"error": "Bitte gib ein gültiges Passwort ein."
 		},
-		"register": "Eikö sinulla ole tiliä? Rekisteröidy",
-		"forgot": "Unohditko salasanan?",
-		"button": "Kirjaudu sisään"
-	},
-	"register": {
-		"title": "Tervetuloa Kasteliin",
-		"subtitle": "Luo tili päästäksesi alkuun.",
-		"username": {
-			"placeholder": "KiKi",
-			"label": "Käyttäjätunnus",
-			"description": "TKäyttäjätunnus, jota haluat käyttää.",
-			"error": "Kirjoita kelvollinen käyttäjätunnus."
-		},
-		"email": {
-			"placeholder": "kiki@kastelapp.com",
-			"label": "Sähköposti",
-			"description": "Sähköpostiosoite, jota haluat käyttää.",
-			"error": "Kirjoita voimassa oleva sähköpostiosoite."
-		},
-		"password": {
-			"placeholder": "Syötä salasanasi",
-			"label": "Salasana",
-			"description": "Salasana, jota haluat käyttää.",
-			"error": "Virheellinen salasana.",
-			"confirm": {
-				"placeholder": "Vahvista salasanasi",
-				"label": "Vahvista salasanasi",
-				"description": "Vahvista salasanasi.",
-				"error": "Salasanat eivät täsmää."
-			}
-		},
-		"button": "Rekisteröi tili",
-		"login": "Onko sinulla tili? Kirjaudu sisään."
-	},
-	"tags": {
-		"system": "Järjestelmä",
-		"bot": "Botti",
-		"server": "Palvelin"
+		"register": "Du hast keinen Account? Registrieren",
+		"forgot": "Passwort vergessen?",
+		"button": "Anmelden"
 	}
 }
