@@ -35,7 +35,7 @@
             "signup": "Regístrate",
             "blog": "Blog",
             "support": "Soporte",
-            "docs": "Portal del dev",
+            "docs": "Portal del Desarrollador",
             "app": "Abrir Aplicacion"
         }
     },
@@ -83,7 +83,7 @@
 		},
 		"email": {
 			"placeholder": "kiki@kastelapp.com",
-			"label": "Email",
+			"label": "Correo Electrónico",
 			"description": "El correo electrónico que deseas usar",
 			"error": "Por favor, ingresa un correo electrónico válido."
 		},
