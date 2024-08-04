@@ -1,0 +1,110 @@
+{
+    "_meta": {
+        "name": "Spanish",
+        "code": "es",
+        "contributors": [
+            {
+                "name": "kaz",
+                "id": null
+            }
+        ]
+    },
+    "_debug": {
+		"title": "This is always translated",
+		"test": "{{lorempsum.words:25}}"
+	},
+    "error": {
+        "forohfor": {
+            "header": "404 - Página No Encontrada",
+            "message": "La página que buscas no existe.",
+            "buttons": {
+                "home": "Ir A Inicio",
+                "back": "Volver"
+            }
+        },
+        "internalServerError": "Ocurrió un error raro, por favor intenta de nuevo más tarde."
+    },
+    "home": {
+        "title": "¡Abandona esas plataformas que simplemente no les importas!",
+        "subtitle": "¿Porqué conformarte con menos cuando puedes tener una plataforma que se preocupa for ti? Únete a Kastel, la plataforma que se preocupa por ti!",
+        "subtitle2": "Kastel es gratis, seguro, y funciona en tu navegador, computadora, y en tu teléfono.",
+        "getStarted": "Empieza",
+        "download": "Descargar para",
+        "navbar": {
+            "login": "Iniciar sesión",
+            "signup": "Regístrate",
+            "blog": "Blog",
+            "support": "Soporte",
+            "docs": "Portal del dev",
+            "app": "Abrir Aplicacion"
+        }
+    },
+    "acknowledgements": {
+        "staff": {
+            "title": "Conoce el equipo",
+            "message": "Las personas que hacen Kastel posible."
+        },
+        "contributors": {
+            "title": "Contribuidores",
+            "message": "Las personas que hacen que Kastel sea mejor."
+        },
+        "libraries": {
+            "title": "Bibliotecas",
+            "message": "Las bibiotecas que hacen Kastel posible."
+        }
+    },
+    "login": {
+        "title": "¡Bienvenido de nuevo!",
+        "subtitle": "Inicia sesión en su cuenta para continuar.",
+        "email": {
+            "placeholder": "kiki@kastelapp.com",
+            "label": "Correo Electronico",
+            "description": "El correo electrónico que usaste para registrarte",
+            "error": "Por favor, ingresa un correo electrónico válido."
+        },
+        "password": {
+            "placeholder": "Ingresa Tu Contraseña",
+            "label": "Contraseña",
+            "description": "La contraseña de su cuenta",
+            "error": "Por favor, ingresa una contraseña válida."
+        },
+        "register": "¿No tienes una cuenta? Registrate",
+		"forgot": "¿Olvidaste tu contraseña?",
+		"button": "Iniciar sesión"
+    },
+    "register": {
+		"title": "Bienvenido a Kastel",
+		"subtitle": "Crea una cuenta para comenzar.",
+		"username": {
+			"placeholder": "KiKi",
+			"label": "Nombre de Usuario",
+			"description": "El nombre de usuario que deseas usar",
+			"error": "Por favor, ingresa un nombre de usuario válido."
+		},
+		"email": {
+			"placeholder": "kiki@kastelapp.com",
+			"label": "Email",
+			"description": "El correo electrónico que deseas usar",
+			"error": "Por favor, ingresa un correo electrónico válido."
+		},
+		"password": {
+			"placeholder": "Ingresa tu contraseña",
+			"label": "Contraseña",
+			"description": "La contraseña que deseas usar.",
+			"error": "Por favor, ingresa una contraseña válida.",
+			"confirm": {
+				"placeholder": "Confirma su contraseña",
+				"label": "Confirma su contraseña",
+				"description": "Por favor, confirma su contraseña",
+				"error": "Las contraseñas no coinciden."
+			}
+		},
+		"button": "Regístrate",
+		"login": "¿Tienes una cuenta? Inicia sesión"
+	},
+	"tags": {
+		"system": "Systema",
+		"bot": "Bot",
+		"server": "Servidor"
+	}
+}
