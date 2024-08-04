@@ -1,1 +1,14 @@
-
+{
+	"_meta": {
+		"name": "Arabic",
+		"code": "ar",
+		"contributors": [
+			{
+				"name": ""
+			}
+		]
+	},
+	"_debug": {
+		"title": "Dies ist immer übersetzt."
+	}
+}
