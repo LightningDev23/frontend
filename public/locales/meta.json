@@ -17,7 +17,12 @@
 		},
 		{
 			"code": "fi",
-			"status": "complete",
+			"status": "Work in progress",
+			"notes": []
+		},
+		{
+			"code": "ar",
+			"status": "Work in progress",
 			"notes": []
 		}
 	]
