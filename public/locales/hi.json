@@ -1,0 +1,14 @@
+{
+	"_meta": {
+		"name": "Hindi",
+		"code": "hi",
+		"contributors": [
+			{
+				"name": ""
+			}
+		]
+	},
+	"_debug": {
+		"title": "This is always translated (HI)."
+	}
+}
