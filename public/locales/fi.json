@@ -1,6 +1,6 @@
 {
 	"_meta": {
-		"name": "Finnish",
+		"name": "Finnish"
 		"code": "fi",
 		"contributors": [
 			{
@@ -9,7 +9,7 @@
 		]
 	},
 	"_debug": {
-		"title": "This is always translated (FI)."
+		"title": "This is always translated (FI)"
 	},
 	"error": {
 		"forohfor": {
@@ -19,7 +19,8 @@
 				"home": "Etusivu",
 				"back": "Edellinen sivu"
 			}
-		}
+		},
+		"internalServerError": "No, se on harvinainen virhe, yritä myöhemmin uudelleen."
 	},
 	"home": {
 		"title": "Heitä pois alustat, jotka eivät välitä!",
@@ -32,7 +33,8 @@
 			"signup": "Rekisteröidy",
 			"blog": "Blogi",
 			"support": "Tuki",
-			"docs": "Kehittäjän sivu"
+			"docs": "Kehittäjän sivu",
+			"app": "Avaa sovellus"
 		}
 	},
 	"acknowledgements": {
@@ -53,9 +55,10 @@
 		"title": "Tervetuloa!",
 		"subtitle": "Kirjaudu tilillesi jatkaaksesi.",
 		"email": {
+			"placeholder": "kiki@kastelapp.com",
 			"label": "Sähköposti",
 			"description": "Sähköpostiosoite, jolla rekisteröidyt.",
-			"error": "Kirjoita voimassa oleva sähköpostiosoite.."
+			"error": "Kirjoita voimassa oleva sähköpostiosoite."
 		},
 		"password": {
 			"placeholder": "Syötä salasanasi",
@@ -66,5 +69,40 @@
 		"register": "Eikö sinulla ole tiliä? Rekisteröidy",
 		"forgot": "Unohditko salasanan?",
 		"button": "Kirjaudu sisään"
+	},
+	"register": {
+		"title": "Tervetuloa Kasteliin",
+		"subtitle": "Luo tili päästäksesi alkuun.",
+		"username": {
+			"placeholder": "KiKi",
+			"label": "Käyttäjätunnus",
+			"description": "TKäyttäjätunnus, jota haluat käyttää.",
+			"error": "Kirjoita kelvollinen käyttäjätunnus."
+		},
+		"email": {
+			"placeholder": "kiki@kastelapp.com",
+			"label": "Sähköposti",
+			"description": "Sähköpostiosoite, jota haluat käyttää.",
+			"error": "Kirjoita voimassa oleva sähköpostiosoite."
+		},
+		"password": {
+			"placeholder": "Syötä salasanasi",
+			"label": "Salasana",
+			"description": "Salasana, jota haluat käyttää.",
+			"error": "Virheellinen salasana.",
+			"confirm": {
+				"placeholder": "Vahvista salasanasi",
+				"label": "Vahvista salasanasi",
+				"description": "Vahvista salasanasi.",
+				"error": "Salasanat eivät täsmää."
+			}
+		},
+		"button": "Rekisteröi tili",
+		"login": "Onko sinulla tili? Kirjaudu sisään."
+	},
+	"tags": {
+		"system": "Järjestelmä",
+		"bot": "Botti",
+		"server": "Palvelin"
 	}
 }
